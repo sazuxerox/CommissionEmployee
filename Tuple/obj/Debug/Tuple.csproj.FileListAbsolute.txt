@@ -1,0 +1,6 @@
+F:\Nabil\C#\Console\Console Test\Tuple\Tuple\bin\Debug\Tuple.exe.config
+F:\Nabil\C#\Console\Console Test\Tuple\Tuple\obj\Debug\Tuple.csprojResolveAssemblyReference.cache
+F:\Nabil\C#\Console\Console Test\Tuple\Tuple\bin\Debug\Tuple.exe
+F:\Nabil\C#\Console\Console Test\Tuple\Tuple\bin\Debug\Tuple.pdb
+F:\Nabil\C#\Console\Console Test\Tuple\Tuple\obj\Debug\Tuple.exe
+F:\Nabil\C#\Console\Console Test\Tuple\Tuple\obj\Debug\Tuple.pdb
